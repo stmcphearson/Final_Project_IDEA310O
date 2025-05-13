@@ -61,6 +61,10 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# Extra files
+*.cubemap
+*\libburst-llvm-18.dylib
+
 # Crashlytics generated file
 crashlytics-build.properties
 
